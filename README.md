@@ -17,9 +17,27 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 
 ### Azure RTOS (ThreadX)
 
+### CMSIS-RTOS2
+
+- https://arm-software.github.io/CMSIS_6/latest/RTOS2/index.html
+
 ## Trace Visualization Tools
 
 ### Tracealyzer (tested with FreeRTOS)
 
 - https://percepio.com/tracealyzer/
 - https://github.com/percepio/TraceRecorderSource
+
+## Machine Learning
+
+### TensorFlow Lite Micro
+
+- [Official port](https://github.com/raspberrypi/pico-tflmicro)
+
+### CMSIS-NN
+- https://github.com/ARM-software/CMSIS-NN
+- https://arm-software.github.io/CMSIS-NN/latest/index.html
+
+### CMSIS-DSP
+- https://github.com/ARM-software/CMSIS-DSP
+- https://arm-software.github.io/CMSIS-DSP/latest/index.html
