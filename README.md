@@ -12,7 +12,13 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 ### Zephyr
 - [Official doc](https://docs.zephyrproject.org/latest/boards/raspberrypi/rpi_pico/doc/index.html)
 
-### Azure RTOS (ThreadX)
+### Eclipse ThreadX (Azure RTOS)
+
+- https://github.com/eclipse-threadx/threadx
+
+### RT-Thread
+
+- https://github.com/RT-Thread/rt-thread/tree/master/bsp/raspberry-pico
 
 ### micro-ROS
 - https://github.com/micro-ROS/micro_ros_raspberrypi_pico_sdk
