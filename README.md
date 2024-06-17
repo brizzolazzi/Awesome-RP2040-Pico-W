@@ -56,3 +56,10 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 
 - https://mongoose.ws/documentation/#raspberry-pi-rp2040
 - https://github.com/cesanta/mongoose/tree/master/examples/rp2040
+
+## SDR
+
+- https://github.com/luigifcruz/pico-stuff/tree/main/apps/piccolosdr
+- https://github.com/ArjanteMarvelde/uSDR-pico
+- https://github.com/dawsonjon/PicoRX/wiki
+- https://code.porucha.net/mordae/pico-sdr (https://blog.porucha.net/2024/pico-sdr/)
