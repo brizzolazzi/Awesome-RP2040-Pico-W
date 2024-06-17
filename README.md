@@ -44,3 +44,15 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 ### CMSIS-DSP
 - https://github.com/ARM-software/CMSIS-DSP
 - https://arm-software.github.io/CMSIS-DSP/latest/index.html
+
+## WebSockets
+
+### libwebsockets
+
+- https://github.com/warmcat/libwebsockets/tree/main/minimal-examples/embedded/pico/pico-sspc-binance
+- https://libwebsockets.org/git/libwebsockets/tree/minimal-examples/embedded/pico/pico-sspc-binance
+
+### Mongoose
+
+- https://mongoose.ws/documentation/#raspberry-pi-rp2040
+- https://github.com/cesanta/mongoose/tree/master/examples/rp2040
