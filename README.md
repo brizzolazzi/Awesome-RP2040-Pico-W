@@ -69,6 +69,13 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 - https://github.com/dawsonjon/PicoRX/wiki
 - https://code.porucha.net/mordae/pico-sdr (https://blog.porucha.net/2024/pico-sdr/)
 
+## Oscilloscope/Logic analyzer
+- https://github.com/pico-coder/sigrok-pico
+- https://github.com/fhdm-dev/scoppy
+- https://github.com/mars-low/scoppy-pico
+- https://github.com/rkarlsba/scoppy
+- https://github.com/zaheeroz/scoppy-pico-Oscilloscope
+
 ## RNDIS
 
 - https://github.com/hathach/tinyusb/tree/master/examples/device/net_lwip_webserver
