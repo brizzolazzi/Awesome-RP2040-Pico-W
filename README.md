@@ -1,5 +1,9 @@
 # Awesome-RP2040-Pico-W
 
+## Technical Info
+
+- RP2040 Arm Cortex-M0+ ARMv6-M Little Endian
+
 ## Operating Systems
 
 ### FreeRTOS
