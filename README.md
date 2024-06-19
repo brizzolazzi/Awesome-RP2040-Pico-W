@@ -86,3 +86,4 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 
 - CTF: https://github.com/mytechnotalent/dc540-0x00001
 - HSM: https://github.com/polhenarejos/pico-hsm
+- FIDO: https://github.com/polhenarejos/pico-fido
