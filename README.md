@@ -4,6 +4,10 @@
 
 - RP2040 Arm Cortex-M0+ ARMv6-M Little Endian
 
+### Memory Mapping
+ - https://petewarden.com/2024/01/16/understanding-the-raspberry-pi-picos-memory-layout/
+ - https://github.com/raspberrypi/pico-sdk/blob/master/src/rp2_common/pico_standard_link/memmap_default.ld
+
 ## Operating Systems
 
 ### FreeRTOS
