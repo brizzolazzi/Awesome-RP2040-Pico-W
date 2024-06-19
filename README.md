@@ -91,5 +91,7 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 
 - CTF: https://github.com/mytechnotalent/dc540-0x00001
 - Reverse enghineering: https://www.youtube.com/watch?v=q4CxE5P6RUE&t=1s
+- Ghidra SVD Loader: https://github.com/leveldown-security/SVD-Loader-Ghidra
+- UF2 Loader: https://github.com/wyattearp/ghidra_uf2loader
 - HSM: https://github.com/polhenarejos/pico-hsm
 - FIDO: https://github.com/polhenarejos/pico-fido
