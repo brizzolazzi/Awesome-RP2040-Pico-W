@@ -98,5 +98,6 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 - Ghidra SVD Loader: https://github.com/leveldown-security/SVD-Loader-Ghidra
 - Ghidra SVD Loader: https://github.com/antoniovazquezblanco/GhidraSVD
 - UF2 Loader: https://github.com/wyattearp/ghidra_uf2loader
+- uf2 to bin: https://github.com/microsoft/uf2/tree/master/utils
 - HSM: https://github.com/polhenarejos/pico-hsm
 - FIDO: https://github.com/polhenarejos/pico-fido
