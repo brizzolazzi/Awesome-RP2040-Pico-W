@@ -71,6 +71,7 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 
 ## Oscilloscope/Logic analyzer
 - https://github.com/pico-coder/sigrok-pico
+- https://github.com/dotcypress/ula
 - https://github.com/fhdm-dev/scoppy
 - https://github.com/mars-low/scoppy-pico
 - https://github.com/rkarlsba/scoppy
@@ -85,5 +86,6 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 ## Security
 
 - CTF: https://github.com/mytechnotalent/dc540-0x00001
+- Reverse enghineering: https://www.youtube.com/watch?v=q4CxE5P6RUE&t=1s
 - HSM: https://github.com/polhenarejos/pico-hsm
 - FIDO: https://github.com/polhenarejos/pico-fido
