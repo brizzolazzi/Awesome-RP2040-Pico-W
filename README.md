@@ -53,6 +53,15 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 - https://github.com/ARM-software/CMSIS-DSP
 - https://arm-software.github.io/CMSIS-DSP/latest/index.html
 
+## CYW43 performance considerations
+
+- cyw43_wifi_pm(&cyw43_state, cyw43_pm_value(CYW43_NO_POWERSAVE_MODE, 20, 1, 1, 1))
+- cyw43_arch_init_with_country() instead of cyw43_arch_init()
+
+## lwIP
+
+- lwIP raw/native API instead of sequential API or BSD Socket API
+
 ## WebSockets
 
 ### libwebsockets
