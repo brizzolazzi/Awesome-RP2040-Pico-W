@@ -1,4 +1,4 @@
-st# Awesome-RP2040-Pico-W
+# Awesome-RP2040-Pico-W
 
 ## Technical Info
 
@@ -90,6 +90,24 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 - https://github.com/hathach/tinyusb/tree/master/examples/device/net_lwip_webserver
 - https://github.com/maxnet/pico-webserver
 - https://mongoose.ws/documentation/tutorials/rp2040/pico-rndis-dashboard/
+
+## Over-the-air (OTA)
+
+- https://github.com/usedbytes/picowota
+- https://github.com/JZimnol/pico_fota_bootloader
+- https://github.com/JZimnol/pico_fota_example
+- https://github.com/jondurrant/RPIPicoW-OTA-Exp
+- https://www.youtube.com/watch?v=Go58qyJpz8Q
+- https://www.freertos.org/freertos-core/over-the-air-updates/index.html
+
+## Unit testing
+
+- https://dev.to/admantium/raspberry-pico-unit-test-framework-for-your-projects-33d4
+- https://www.youtube.com/watch?v=njzFfCUv6qA
+- https://www.youtube.com/watch?v=Rv3MmNCoDBI
+- https://www.youtube.com/shorts/5rcoheP80XM
+- https://www.youtube.com/watch?v=_2-Mh3Kun6s
+- https://github.com/jondurrant/RPIPicoCPPUTest
 
 ## Security
 
