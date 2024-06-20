@@ -79,6 +79,11 @@ FreeRTOS is the OS officially supported by Raspberry Foundations (see pico-examp
 - https://github.com/RealTimeLogic/MinnowServer
 - https://realtimelogic.com/products/sharkssl/minnow-server/
 
+### Others
+
+- https://github.com/cadouthat/pico-ws-server
+- https://github.com/AdrianCX/pico_https
+
 ## SDR
 
 - https://github.com/luigifcruz/pico-stuff/tree/main/apps/piccolosdr
